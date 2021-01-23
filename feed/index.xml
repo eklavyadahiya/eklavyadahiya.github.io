@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eklavya Dahiya</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Jan 2021 22:29:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Blog Posts Are In The Works</title>
+		<link>/blog-posts-are-in-the-works/</link>
+					<comments>/blog-posts-are-in-the-works/#respond</comments>
+		
+		<dc:creator><![CDATA[Eklavya Dahiya]]></dc:creator>
+		<pubDate>Sat, 23 Jan 2021 22:13:57 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=177</guid>
+
+					<description><![CDATA[Everybody and their mothers is blogging now. I finally got around to setting up this site. I plan to write a post about how I did it so others can do it too. And while some tech pundits might argue that the way I did this was very &#8216;inefficient&#8217; &#8211; my argument to them would&#8230;&#160;<a href="/blog-posts-are-in-the-works/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Blog Posts Are In The Works</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Everybody and their mothers is blogging now. I finally got around to setting up this site. I plan to write a post about how I did it so others can do it too. And while some tech pundits might argue that the way I did this was very &#8216;inefficient&#8217; &#8211; my argument to them would be that if you understand how to use certain tools and achieve the desired outcome, how efficient your process is depends completely on your ability to work with those tools. </p>
+
+
+
+<p>How I set up this site for free:</p>
+
+
+
+<ol><li>Install wordpress on your local computer</li><li>Use the Simply Static plugin to generate a static version of the site</li><li>Push to github, make sure your repo is setup properly to show up on github pages</li><li>Point your domain to github pages, do the necessary linking</li></ol>
+
+
+
+<p>Though, one could argue that it isn&#8217;t really &#8216;free&#8217;. I still pay for the domain name. And i&#8217;ve spent plenty of time learning to do all these things myself. So, there&#8217;s definitely some time that has been invested.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-posts-are-in-the-works/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
